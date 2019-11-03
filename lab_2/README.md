@@ -58,5 +58,5 @@ pipenv pytest tests/tests.py
 ```bash
 make
 ```
-- 
+- ![makefile results](https://github.com/Marianruzhyrskyi/DevLabs/blob/master/lab_2/img/makefile_results.png)
 15. Зроблено
