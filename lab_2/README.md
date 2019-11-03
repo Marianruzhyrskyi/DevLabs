@@ -9,14 +9,14 @@ pip install pipenv
 pipenv --python 3.7
 pipenv shell
 ```
-    - ![pipenv_install](./img/pipenv_1.png) ![pipenv_install](./img/pipenv_2.png) 
+  - ![pipenv_install](./img/pipenv_1.png) ![pipenv_install](./img/pipenv_2.png) 
     
 3. Встановив бібліотеи  `requests`  та `ntplib`  у своєму середовищі. 
 ```bash
 pipenv install requests
 pipenv install ntplib
 ```
-    - ![install libs](./img/pipenv_libs.png)
+  - ![install libs](./img/pipenv_libs.png)
 
 4. Створив файл `app.py`. Ознайомився з Python: [Python tutorial](https://www.tutorialspoint.com/python/index.htm)
 
@@ -24,25 +24,25 @@ pipenv install ntplib
 ```bash
 pipenv python app.py
 ```
-    - ![test app.py](./img/app_py_test.png)
+  - ![test app.py](./img/app_py_test.png)
     
 
 6. Встановив бібліотеку `pytest`. Ознайомився з  [документацією pytest](https://docs.pytest.org/en/latest/#).
 ```bash
 pipenv install pytest
 ```
-    - ![pytest install](./img/pytest_install.png)
+  - ![pytest install](./img/pytest_install.png)
     
 
 7.  Тести виконуються успішно::
 ```bash
 pipenv pytest tests/tests.py
 ```
-    -  ![pytest install](./img/run_pytests_test.png)
+  -  ![pytest install](./img/run_pytests_test.png)
     
 
 8. :exclamation: (Захист) У програмі дописати функцію яка буде перевіряти час доби AM/PM та відповідно друкувати: Доброго дня/ночі;
-    -  ![pytest install](./img/home_work.png)
+    - ![pytest install](./img/home_work.png)
 
 9. :exclamation: (Захист) Написав тест що  перевіряє правильність виконання функції в app.py. Тест виконується успішно
 
