@@ -1,0 +1,88 @@
+ERROR 2019-11-03 18:14:36,852 root : Якась помилка: : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fac40a95090>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2019-11-03 18:16:45,829 root : Якась помилка: : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7efd013cc150>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO 2019-11-03 18:17:35,246 root : Сервер доступний. Час на сервері: test1
+INFO 2019-11-03 18:17:35,247 root : Запитувана сторінка: : test2
+INFO 2019-11-03 18:17:35,247 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-03 18:17:35,247 root : Ключ: date, Значення: test1
+INFO 2019-11-03 18:17:35,247 root : Ключ: current_page, Значення: test2
+INFO 2019-11-03 18:17:35,247 root : Ключ: server_info, Значення: test3
+INFO 2019-11-03 18:17:35,247 root : Ключ: client_info, Значення: test4
+INFO 2019-11-03 18:17:48,715 root : Сервер доступний. Час на сервері: test1
+INFO 2019-11-03 18:17:48,715 root : Запитувана сторінка: : test2
+INFO 2019-11-03 18:17:48,716 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-03 18:17:48,716 root : Ключ: date, Значення: test1
+INFO 2019-11-03 18:17:48,716 root : Ключ: current_page, Значення: test2
+INFO 2019-11-03 18:17:48,716 root : Ключ: server_info, Значення: test3
+INFO 2019-11-03 18:17:48,716 root : Ключ: client_info, Значення: test4
+INFO 2019-11-03 18:18:48,787 root : Сервер доступний. Час на сервері: test1
+INFO 2019-11-03 18:18:48,787 root : Запитувана сторінка: : test2
+INFO 2019-11-03 18:18:48,787 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-03 18:18:48,787 root : Ключ: date, Значення: test1
+INFO 2019-11-03 18:18:48,787 root : Ключ: current_page, Значення: test2
+INFO 2019-11-03 18:18:48,787 root : Ключ: server_info, Значення: test3
+INFO 2019-11-03 18:18:48,787 root : Ключ: client_info, Значення: test4
+INFO 2019-11-03 18:19:48,843 root : Сервер доступний. Час на сервері: test1
+INFO 2019-11-03 18:19:48,843 root : Запитувана сторінка: : test2
+INFO 2019-11-03 18:19:48,844 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-03 18:19:48,844 root : Ключ: date, Значення: test1
+INFO 2019-11-03 18:19:48,844 root : Ключ: current_page, Значення: test2
+INFO 2019-11-03 18:19:48,844 root : Ключ: server_info, Значення: test3
+INFO 2019-11-03 18:19:48,844 root : Ключ: client_info, Значення: test4
+INFO 2019-11-03 18:20:48,921 root : Сервер доступний. Час на сервері: test1
+INFO 2019-11-03 18:20:48,921 root : Запитувана сторінка: : test2
+INFO 2019-11-03 18:20:48,921 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-03 18:20:48,921 root : Ключ: date, Значення: test1
+INFO 2019-11-03 18:20:48,921 root : Ключ: current_page, Значення: test2
+INFO 2019-11-03 18:20:48,921 root : Ключ: server_info, Значення: test3
+INFO 2019-11-03 18:20:48,922 root : Ключ: client_info, Значення: test4
+ERROR 2019-11-03 18:22:03,543 root : Якась помилка: : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc1ebaaa0d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2019-11-03 18:23:04,762 root : SHIT
+ERROR 2019-11-03 18:23:04,764 root : Якась помилка: : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fed017a9210>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2019-11-03 18:24:08,209 root : Якась помилка: : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff46c9f5110>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2019-11-03 18:26:37,815 root : Якась помилка: : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8661092210>: Failed to establish a new connection: [Errno 111] Connection refused'))
+WARNING 2019-11-03 18:26:37,815 root : ERROR
+INFO 2019-11-03 18:26:46,895 root : Сервер доступний. Час на сервері: test1
+INFO 2019-11-03 18:26:46,895 root : Запитувана сторінка: : test2
+INFO 2019-11-03 18:26:46,895 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-03 18:26:46,896 root : Ключ: date, Значення: test1
+INFO 2019-11-03 18:26:46,896 root : Ключ: current_page, Значення: test2
+INFO 2019-11-03 18:26:46,896 root : Ключ: server_info, Значення: test3
+INFO 2019-11-03 18:26:46,896 root : Ключ: client_info, Значення: test4
+INFO 2019-11-03 18:27:11,004 root : Сервер доступний. Час на сервері: test1
+INFO 2019-11-03 18:27:11,004 root : Запитувана сторінка: : test2
+INFO 2019-11-03 18:27:11,004 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-03 18:27:11,004 root : Ключ: date, Значення: test1
+INFO 2019-11-03 18:27:11,004 root : Ключ: current_page, Значення: test2
+INFO 2019-11-03 18:27:11,005 root : Ключ: server_info, Значення: test3
+INFO 2019-11-03 18:27:11,005 root : Ключ: client_info, Значення: test4
+ERROR 2019-11-03 18:27:15,584 root : Якась помилка: : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b4f2a3150>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2019-11-03 18:27:35,498 root : Якась помилка: : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8752b2c2d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2019-11-03 18:28:01,681 root : Якась помилка: : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3c721db190>: Failed to establish a new connection: [Errno 111] Connection refused'))
+WARNING 2019-11-03 18:28:01,682 root : ERROR
+ERROR 2019-11-03 18:28:07,082 root : Якась помилка: : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa2cfa08210>: Failed to establish a new connection: [Errno 111] Connection refused'))
+WARNING 2019-11-03 18:28:07,083 root : ERROR
+ERROR 2019-11-03 18:29:33,059 root : Якась помилка: : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8546aec090>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2019-11-03 18:29:57,766 root : Якась помилка: : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3916435250>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2019-11-03 18:30:25,766 root : Якась помилка: : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7eff089683d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO 2019-11-03 18:30:36,684 root : Сервер доступний. Час на сервері: test1
+INFO 2019-11-03 18:30:36,684 root : Запитувана сторінка: : test2
+INFO 2019-11-03 18:30:36,684 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-03 18:30:36,684 root : Ключ: date, Значення: test1
+INFO 2019-11-03 18:30:36,684 root : Ключ: current_page, Значення: test2
+INFO 2019-11-03 18:30:36,684 root : Ключ: server_info, Значення: test3
+INFO 2019-11-03 18:30:36,684 root : Ключ: client_info, Значення: test4
+INFO 2019-11-03 18:42:30,853 root : Сервер доступний. Час на сервері: 16:42:30 2019-11-03
+INFO 2019-11-03 18:42:30,853 root : Запитувана сторінка: : /health/
+INFO 2019-11-03 18:42:30,853 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-03 18:42:30,854 root : Ключ: date, Значення: 16:42:30 2019-11-03
+INFO 2019-11-03 18:42:30,854 root : Ключ: current_page, Значення: /health/
+INFO 2019-11-03 18:42:30,854 root : Ключ: server_info, Значення: ['Linux', 'Maryan', '5.3.7-arch1-1-ARCH', '#1 SMP PREEMPT Fri Oct 18 00:17:03 UTC 2019', 'x86_64']
+INFO 2019-11-03 18:42:30,854 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-11-07 15:06:53,934 root : Сервер доступний. Час на сервері: 15:06:53 2019-11-07
+INFO 2019-11-07 15:06:53,934 root : Запитувана сторінка: : /health/
+INFO 2019-11-07 15:06:53,935 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-07 15:06:53,935 root : Ключ: date, Значення: 15:06:53 2019-11-07
+INFO 2019-11-07 15:06:53,935 root : Ключ: current_page, Значення: /health/
+INFO 2019-11-07 15:06:53,935 root : Ключ: server_info, Значення: ['Linux', '2413804495de', '5.0.0-32-generic', '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'x86_64']
+INFO 2019-11-07 15:06:53,935 root : Ключ: client_info, Значення: python-requests/2.22.0
+ERROR 2019-11-07 15:07:54,000 root : Якась помилка: : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ffb48514790>: Failed to establish a new connection: [Errno 111] Connection refused'))
