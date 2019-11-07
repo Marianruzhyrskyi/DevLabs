@@ -6,7 +6,7 @@
     pipenv --python 3.7
     pipenv install django
     ```
-  - ![install django](./img/install_django.png
+  - ![install django](./img/install_django.png)
   
 2. За допомогою Django Framework створив заготовку (template)  проекту dev_site.  Для зручності виніс всі створені файли на один рівень вище щоб структура проекту була такою як показано нижче: 
     ```bash
