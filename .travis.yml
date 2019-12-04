@@ -29,7 +29,7 @@ jobs:
         - docker build -t ruzhyrskyi/lab4-examples:django-travis .
         - docker build -t ruzhyrskyi/lab4-examples:django-monitoring --file Dockerfile.mon .
         - docker images
-        - if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin; docker push ruzhyrskyi/lab4-examples:django-travis; docker-push ruzhyrskyi/lab4-examples:monitoring-travis; else echo "PR skip deploy"; fi
+        - if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin; docker push ruzhyrskyi/lab4-examples:django-travis; docker push ruzhyrskyi/lab4-examples:monitoring-travis; else echo "PR skip deploy"; fi
     - stage: "Build Lab 5."
       name: "Build and run Docker images via make"
       services:
