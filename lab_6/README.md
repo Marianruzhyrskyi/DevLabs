@@ -8,3 +8,4 @@
 - Переписав lab3: змінив файл lab_3/scripts/travis-build.sh 
 - Переписав lab4: створив команду для створення імеджу та його коміту на докер хаб
 - Переписав lab5: додав команду для авторизації в docker hub та відправки створених імеджів на docker hub
+- travis-білд: https://travis-ci.org/Marianruzhyrskyi/DevLabs
